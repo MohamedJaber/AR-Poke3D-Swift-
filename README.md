@@ -7,7 +7,7 @@
 * Used SceneKit to implement plane so can the user position the models of the Pokemon.
 * Downloaded some pokemon models from internet.
 * Took some pics of two cards and sized the plane to the card, so when the camera detect any saved card the pokemon model will appear.
-* You can take two different card pics but u have to name them as i named to avoid any errors and place them in (Assets.xcassets) Dir.
+* You can take two different card pics but u have to name them as i named to avoid any errors and place them in (Assets.xcassets) Dir as i did.
 
 
 ## Here are some screenshot.
